@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15",
+    "socket.io": "^2.3.0",
+    "ws": "^8.4.1"
+  }
+}
